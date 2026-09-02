@@ -1,2 +1,2 @@
 # Python-learning
-A quick short introduction of Python programming language with a lot of key concepts and example codes
+A quick short introduction of Python programming language with a lot of key concepts and example codes to start learning Artificial intelligence
